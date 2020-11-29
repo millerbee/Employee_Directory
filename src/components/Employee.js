@@ -50,7 +50,7 @@ const Employee= (props) => {
   return (
 
       <table>
-          <caption></caption>
+       
           <thead>
 
           <tr>
@@ -103,3 +103,4 @@ const Employee= (props) => {
 
 export default Employee;
 
+//tutorials for sorting and searching merged together
