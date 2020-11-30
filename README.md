@@ -24,6 +24,7 @@ clone project, install react and type 'npm start' to open the app.
 
 ## Usage
 Search for an employee, sort by name or location
+https://guarded-bayou-34587.herokuapp.com/
 
 ## License
 MIT
